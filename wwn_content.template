@@ -1,0 +1,24 @@
+
+<div style="text-align: right;">
+    <big>{$date}</big><br>
+    <small>da <a href="{$contact}">{$author}</a></small>
+</div>
+
+<div style="width: 250px; float: left; padding: 0 10px 0 10px;">
+  {$summary}
+  <p class="small"><a href="{$root}/wwn/en/{$xml}.xml">Sorgente XML</a><br>
+  <a href="{$root}/wwn/">Altri Temi...</a></p>
+</div>
+
+<div class="wwn">
+{$body}
+</div>
+
+<hr>
+
+<p align="center">
+  Tutte le edizioni e i riassunti di Kernel Cousinsono di proprietà dei rispettivi autori originali, e distribuiti
+  ai sensi della <br> <a href="http://www.gnu.org/licenses/gpl2.txt">GNU General Public License,
+  versione 2.0</a>.
+</p>
+

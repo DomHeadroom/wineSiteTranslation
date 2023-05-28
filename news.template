@@ -1,0 +1,17 @@
+<!--TITLE:[Notizie]-->
+
+<h1 class="title"><i class="far fa-newspaper"></i> Notizie</h1>
+
+<p class="margin-bottom-lg">
+    Le ultime novità della comunità di Wine.<br>
+    Ulteriori notizie possono essere visualizzate nel nostro
+    <a href="{$root}/wwn"><i class="fas fa-newspaper"></i> Archivio delle Notizie di Wine nel Mondo</a>
+</p>
+
+<!--EXEC:[news]-->
+
+<hr>
+
+<div class="link-container">
+    <a href="{$root}/news/rss"><i class="fas fa-rss-square"></i> Feed RSS delle Notizie di WineHQ</a>
+</div>

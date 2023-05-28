@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<trans lang="it" table="global">
+
+    <!-- TOP TABS -->
+    <str name="tab_winehq">WineHQ</str>
+    <str name="tab_wiki">Wiki</str>
+    <str name="tab_appdb">AppDB</str>
+    <str name="tab_bugs">Bugzilla</str>
+    <str name="tab_forums">Forum</str>
+
+    <!-- SEARCH PLACEHOLDER -->
+    <str name="search_placeholder">Cerca</str>
+
+    <!-- HOSTED BY LINK -->
+    <str name="hosted_by">Ospitato Da</str>
+    <str name="hosted_by_alt">CodeWeavers - Esegui applicazioni e giochi Windows su Mac e Linux</str>
+
+</trans>

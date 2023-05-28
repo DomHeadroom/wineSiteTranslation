@@ -1,0 +1,70 @@
+<!--TITLE:[Informazioni su Wine]-->
+
+<h1 class="title">Informazioni su Wine</h1>
+
+<p>Wine (originariamente un acronimo di "Wine Is Not an Emulator") è un
+livello di compatibilità capace   di eseguire applicazioni Windows su 
+diversi sistemi operativi compatibili POSIX, come Linux, macOS e BSD.
+Invece di simulare la logica interna di Windows come una macchina virtuale o un
+emulatore, Wine traduce le chiamate dell'API di Windows in POSIX al volo,
+eliminando i problemi di prestazioni e di memoria di altri metodi e
+consentendo di integrare in modo pulito le applicazioni Windows nel vostro
+desktop.</p>
+
+<p>Wine è cominciato nel 1993 sotto la coordinazione iniziale di Bob Amstadt come
+modo per permettere di eseguire programmi Windows 3.1 su Linux. Molto presto,
+il controllo dello sviluppo di Wine passò ad Alexandre Julliard, che ha
+gestito il progetto sin dall'inizio. Nel corso degli anni, come le API di Windows e le
+applicazioni si sono evolute per sfruttare il nuovo hardware e
+software, Wine si è adattato per supportare nuove funzionalità, diventando sempre
+più stabile e offrendo una migliore esperienza utente, anche attraverso il porting
+su altri sistemi operativi.</p>
+
+<p>Un progetto ambizioso per definizione, il lavoro su Wine è continuato
+costantemente per 15 anni prima che il programma raggiungesse finalmente la versione 1.0, 
+il primo rilascio stabile, nel 2008. Dopo diversi altri rilasci, Wine è ancora oggi
+in fase di sviluppo attivo e, sebbene ci sia ancora del lavoro da fare,
+si stima che milioni di persone utilizzino Wine per eseguire
+i loro programmi Windows sul sistema operativo da loro scelto.</p>
+
+<h3>Open Source e Guidato dagli Utenti</h3>
+
+<p>Wine sarà sempre <a href="https://wiki.winehq.org/Licensing"
+title="Licenza di Wine">software libero</a>. Circa la metà del codice
+sorgente di Wine è scritto da volontari, mentre il restante sforzo
+finanziato da interessi commerciali, in particolare
+<a href="http://www.codeweavers.com/products/" title="CodeWeavers
+CrossOver Office">CodeWeavers</a>, che vende una versione di Wine 
+con supporto</p>
+
+<p>Wine si basa molto anche sulla sua comunità di utenti. Gli utenti offrono
+il loro tempo per condividere consigli risultati di test su come i loro programmi 
+funzionano sul nostro <a href="//appdb.winehq.org/" title="Database Applicazioni
+Wine">Database di Applicazioni</a>, segnalare i bug per inviare 
+agli sviluppatori i problemi nel nostro <a href="//bugs.winehq.org/"
+title="Bugzilla">Bug-Tracker</a>, e rispondere alle domande nel nostro
+<a href="//forums.winehq.org/" title="Forum WineHQ">forum</a>.
+</p>
+
+<h3>Per saperne di più:</h3>
+
+<p><i>(Alcune delle seguenti pagine sono attualmente in fase di 
+rielaborazione e potrebbero non essere aggiornate)</i></p>
+
+<ul>
+    <li><a href="https://wiki.winehq.org/ImportanceOfWine">Perché Wine è così
+        Importante</a>
+    </li>
+    <li><a href="https://wiki.winehq.org/WineHistory">Storia del progetto 
+        Wine</a>
+    </li>
+    <li><a href="https://wiki.winehq.org/ProjectOrganization">
+        Organizzazione e Leadership</a>
+    </li>
+    <li><a href="https://wiki.winehq.org/WhosWho">Alcune biografie dei contributori
+        </a>
+    </li>
+    <li><a href="https://wiki.winehq.org/Acknowledgements">Altri
+        Riconoscimenti</a>
+    </li>
+</ul>

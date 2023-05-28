@@ -1,0 +1,18 @@
+<!--TITLE:[404 Non Trovato]-->
+<!--BLURB:[Ooops... Sei andato da qualche parte che non ci aspettavamo.]-->
+
+<h1 class="title">404 Non Trovato</h1>
+
+<p>
+    Spiacente, il documento non è stato trovato. Controlla l'URL
+    e riprova.
+</p>
+
+<hr>
+
+<p>
+    Se hai seguito un link da una pagina di WineHQ.org e sei arrivato su questa pagina
+    in errore, ti preghiamo di segnalarcelo su WineHQ.org
+    <a href="//bugs.winehq.org/enter_bug.cgi?product=WineHQ.org">Bugzilla</a>.
+</p>
+
